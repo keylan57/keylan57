@@ -1,11 +1,12 @@
 # Hi there, I'm Keylan! 👋
 
-Saya adalah mahasiswa **Teknik Komputer** yang sedang aktif mengeksplorasi irisan antara *hardware* dan *software*. 
+Aku mahasiswa **Teknik Komputer** yang lagi seru-serunya nge-eksplor dunia *hardware* dan *software*. 
 
 ## 🔭 Apa yang sedang saya kerjakan?
-- 🎓 Fokus menyelesaikan studi S1 Teknik Komputer.
-- 💻 Mempelajari dan bereksperimen dengan **Python, C, dan C++**.
-- 🔌 Mengulik elektronika digital, mikrokontroler, dan *Internet of Things* (IoT).
+- 🎓 Fokus nyelesaiin studi S1 Teknik Komputer.
+- 💻 Belajar dan ngulik kode pakai **Python, C, dan C++**.
+- 🔧 Buka jasa servis komputer/laptop ringan (hitung-hitung nambah pengalaman *troubleshooting*!).
+- 🔌 Eksperimen sama elektronika digital, mikrokontroler, dan *Internet of Things* (IoT).
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
@@ -16,11 +17,8 @@ Saya adalah mahasiswa **Teknik Komputer** yang sedang aktif mengeksplorasi irisa
 </p>
 
 ## ⚡ Di luar layar monitor...
-Saat sedang tidak *coding* atau membuat simulasi *logic gate*, saya biasanya menulis esai/puisi, memantau pergerakan pasar saham (terutama IPO & komoditas emas), atau menikmati hobi *cosplay* anime.
+Kalau lagi nggak pusing ngoding atau nugas, hobi favoritku baca novel dan main rubik. aku juga lumayan ngikutin jejepangan—mulai dari baca manga, nonton anime, sampai datang ke *event-event* *pop-culture* yang ada di sekitar Purwokerto. 
+
+Selebihnya sih kegiatannya normal pada umumnya aja—bersantai sambil nonton film atau *scrolling* YouTube dan Ig.
 
 ---
-
-<!-- GitHub Stats (Ganti 'username-kamu' dengan username GitHub aslimu) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keylan57&show_icons=true&theme=tokyonight" alt="keylan57 GitHub Stats" />
-</p>
