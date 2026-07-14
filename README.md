@@ -22,5 +22,5 @@ Saat sedang tidak *coding* atau membuat simulasi *logic gate*, saya biasanya men
 
 <!-- GitHub Stats (Ganti 'username-kamu' dengan username GitHub aslimu) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight" alt="Keylan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight" alt="keylan57's GitHub Stats" />
 </p>
